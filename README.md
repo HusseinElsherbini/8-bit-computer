@@ -36,11 +36,11 @@
 
 <a name="memory"></a>
 ### 2. Memory
-   <img src="images/memory.JPG">
+   <img src="images/Memory.JPG">
 
 <a name="RAM"></a>
 ### Random Access Memory
-     <img src="images/ram.JPG">
+   <img src="images/RAM.JPG">
      
 <a name="MAR"></a>
 ### Memory Address Register
