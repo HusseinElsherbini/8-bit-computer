@@ -53,8 +53,10 @@
 
 <a name="RegisterA"></a>
 ### Register A/B
-
+   <img src="images/RegistersA_B.JPG">
+    
 <a name="micro"></a>
 ### Microcode Storage
+   <img src="images/MicrocodeStorage.JPG">
 
 
