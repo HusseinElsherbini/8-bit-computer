@@ -47,6 +47,7 @@
 
 <a name="IR"></a>
 ### Instruction Register
+   <img src="images/InstructionRegister.jpg">
 
 <a name="AluRegs"></a>
 ### ALU Registers
