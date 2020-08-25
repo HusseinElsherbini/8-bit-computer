@@ -44,7 +44,8 @@
      
 <a name="MAR"></a>
 ### Memory Address Register
-
+   <img src="images/MemoryAdressRegister.JPG">
+   
 <a name="IR"></a>
 ### Instruction Register
    <img src="images/InstructionRegister.jpg">
