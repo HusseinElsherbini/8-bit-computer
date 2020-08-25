@@ -57,6 +57,6 @@
     
 <a name="micro"></a>
 ### Microcode Storage
-   <img src="images/MicrocodeStorage.JPG">
+  
 
 
