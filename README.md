@@ -12,7 +12,9 @@
      2.1 [RAM ](#RAM)  
      2.2 [Memory Address Registers](#MAR)  
      2.3 [Instruction Register ](#IR)  
-     2.4 [ALU Registers ](#AluRegs)  
+     2.4 [Register A](#RegisterA)  
+     2.5 [Register B](#RegisterB)  
+     2.6 [Microcode Storage](#micro)  
 
 <a name="desc"></a>
 ### 1. System Clock  
@@ -50,8 +52,13 @@
 ### Instruction Register
    <img src="images/InstructionRegister.jpg">
 
-<a name="AluRegs"></a>
-### ALU Registers
-     
+<a name="RegisterA"></a>
+### Register A
+
+<a name="RegisterB"></a>
+### Register B
+
+<a name="micro"></a>
+### Microcode Storage
 
 
