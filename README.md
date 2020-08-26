@@ -14,6 +14,12 @@
      2.3 [Instruction Register ](#IR)  
      2.4 [Register A/B](#RegisterA)   
      2.5 [Microcode Storage](#micro)  
+     
+3. [ALU](#alu)  
+
+4. [Program Counters ](#ProgramCounter)  
+
+5. [Output Display ](#output)
 
 <a name="desc"></a>
 ### 1. System Clock  
@@ -58,5 +64,16 @@
 <a name="micro"></a>
 ### Microcode Storage
    <img src="images/MicrocodeStorage.JPG">
+   
+<a name="alu"></a>
+### 3. ALU
+   <img src="images/ALU.JPG">
+   
+<a name="ProgramCounter"></a>  
+### 4. Program Counters
+   <img src="images/ProgramCounters.JPG">
 
-
+<a name="output"></a>  
+### 4. Output Display
+   <img src="images/output.JPG">
+   <img src="images/output2.JPG">
