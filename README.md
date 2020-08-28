@@ -84,7 +84,7 @@
    <img src="images/output.JPG">
    <img src="images/output2.JPG">
    
-<a name="output"></a>  
+<a name="assembly"></a>  
 ### 5. Assembly Program
    <img src="images/Program.JPG">
    
