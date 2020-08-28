@@ -1,5 +1,5 @@
 # 8-bit-computer
-##### This is an 8 bit computer Built out of TTL logic chips (7400 series) inspired by the SAP-1 architecture it contains the fundamental building blocks of any     computer, a system clock, ALU, flash, RAM and an output display. below is the table of contents for a detailed description of every part and a final       demonstration. 
+
 
 ## Table Of Contents
 
