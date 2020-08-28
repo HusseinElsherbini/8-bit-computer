@@ -86,7 +86,7 @@
    
 <a name="output"></a>  
 ### 5. Assembly Program
-   
+   <img src="images/Program.JPG">
    
    This program initially stores the number 1 in Register A and B, stores the sum back in Register A, outputs the sum to the display, increments Register A by 1 and outputs to the display again in an infinite loop which essentially creates an up counter. In order for the computer to execute any instruction, it needs an algorithm. an algorithm is several steps that are intended to tell the computer what we need it to do. At the most fundamental level, those steps are nothing but control signals, zeros and ones which the computer can understand. For example if we want to output the contents of a register onto the bus, we tell the computer to send a control signal to the register or module we would like to ouput to the bus. By looking at the table above, the first instruction is the *"Fetch"*, this intruction happens in steps 000 and 001 of every instruction. On step 0 i simply told the computer to send a control signal to activate the Memory Address Register and a control signal to the Program Counter, the Program Counter will output its contents on the bus (the number of instruction its currently on) and the MAR will store that so we can address ram and fetch said instruction. In the following step of the Fetch instruction, i told the computer to send a "RAM OUT" control signal to RAM, an "Instruction Register In" signal to the IR, and a "Program Counter Enable" signal to the PC, this tells RAM to output the instruction on the bus and tells the instruction register to store it and finally to enable the program counter for the next instuction. (stick with me it gets a little exciting in just a second)
    
