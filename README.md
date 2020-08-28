@@ -96,7 +96,7 @@
 
 <a name="demo"></a>  
 ### 5. Demonstration
-
+   [![](http://img.youtube.com/vi/BxdbXgI8FFA/0.jpg)](http://www.youtube.com/watch?v=BxdbXgI8FFA "")
 <a name="refs"></a>
 ### 6. References
      Digital Computer Electronics by Albert Paul Malvino
